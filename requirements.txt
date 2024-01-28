@@ -1,0 +1,6 @@
+pandas
+numpy
+opencv-python
+torch
+torchvision
+scipy
